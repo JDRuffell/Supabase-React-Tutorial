@@ -2,7 +2,10 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://johnruffell.me/Supabase-React-Tutorial",
+  "homepage": "https://johnruffell.me/Supabase-React-Tutorial/",
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
   "dependencies": {
     "@chakra-ui/react": "^2.4.4",
     "@emotion/react": "^11.10.5",
